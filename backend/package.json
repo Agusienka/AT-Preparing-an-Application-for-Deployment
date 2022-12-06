@@ -6,7 +6,7 @@
   "scripts": {
     "dev": "nodemon index",
     "start": "node index",
-  "test": "echo \"No test specified\""
+  "test": "mocha"
 },  },
   "keywords": [],
   "author": "",
