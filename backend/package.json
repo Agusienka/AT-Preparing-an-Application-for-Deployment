@@ -6,8 +6,8 @@
   "scripts": {
     "dev": "nodemon index",
     "start": "node index",
-  "test": "mocha"
-},
+  "test:ci":"jest --ci --runInBand --reporters=default --reporters=jest-junit"
+  },
   "keywords": [],
   "author": "",
   "license": "",
