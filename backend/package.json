@@ -6,9 +6,8 @@
   "scripts": {
     "dev": "nodemon index",
     "start": "node index",
-    "test": "mocha --recursive test",
-  "bump-version": "npm version patch"
-  },
+  "test": "echo \"No test specified\""
+},  },
   "keywords": [],
   "author": "",
   "license": "",
