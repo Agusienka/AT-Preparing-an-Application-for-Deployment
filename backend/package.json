@@ -7,7 +7,7 @@
     "dev": "nodemon index",
     "start": "node index",
   "test": "mocha"
-},  },
+},
   "keywords": [],
   "author": "",
   "license": "",
